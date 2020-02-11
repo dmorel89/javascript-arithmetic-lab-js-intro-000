@@ -24,8 +24,23 @@ function decrement(a){
   var number = a -= 4
   console.log(number)
 }
-
 function makeInt(n){
-console.log(parseInt(n))
-
+ console.log(parseInt(n))
+ console.log(parseInt("24", 10))
 }
+
+function preserveDecimal(n){
+  console.log(parseFloat(n))
+}
+
+
+
+
+ add(34, 87)
+ subtract(356, 159)
+ multiply ( 4, 56)
+ divide (10, 5)
+increment(34)
+decrement(166)
+makeInt( "Im not ok")
+preserveDecimal('80.123999')
