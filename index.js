@@ -3,11 +3,11 @@ function add( a, b){
   console.log(number)
  }
 function subtract( a, b){
-   var number = a - b 
+   var number = a - b
 console.log(number)
  }
 function multiply(a, b){
-  var number = b * a 
+  var number = b * a
   console.log(number)
 }
 function divide(a, b){
