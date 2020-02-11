@@ -39,6 +39,6 @@ function preserveDecimal(n){
  divide (10, 5)
 increment(34)
 decrement(166)
-makeInt( "567")
+makeInt( "857")
 preserveDecimal('80.123999')
 preserveDecimal("I'm alive")
